@@ -14,4 +14,4 @@
 ![ktzaw's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ktzaw&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ktzaw&theme=cobalt&no-frame=false&no-bg=false&margin-w=4)
+![ktzaw's Trophies](https://github-profile-trophy.vercel.app/?username=ktzaw&theme=cobalt&no-frame=false&no-bg=false&margin-w=4)
