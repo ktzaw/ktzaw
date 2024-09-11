@@ -9,8 +9,7 @@
 - ⚡ Fun fact: They call me Kung Fu Panda or Mobile Panda xD.
 
 ## GitHub Profile
-![ktzaw's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ktzaw&theme=dracula&show_icons=true&hide_border=false&layout=compact)
-
+![ktzaw's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ktzaw&theme=dracula&show_icons=true&hide_border=false&layout=compact)<br/>
 ![ktzaw's Stats](https://github-readme-stats.vercel.app/api?username=ktzaw&theme=dracula&show_icons=true&hide_border=false&count_private=true)
 ![ktzaw's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ktzaw&theme=dracula&hide_border=false)
 
