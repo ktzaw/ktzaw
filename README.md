@@ -6,7 +6,7 @@
 - 💬 Ask me about Android, Kotlin, Flutter.
 - 📫 How to reach me: kaungthantzaw13@gmail.com.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: They call me Kung Fu Panda or Mobile Panda xD.
+- ⚡ Fun fact: They call me Kung Fu Panda xD.
 
 ## GitHub Profile
 
