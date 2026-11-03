@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://ktzaw.tech"><img src="https://www.google.com/s2/favicons?domain=ktzaw.tech&sz=64" height="28" alt="ktzaw.tech" /></a>
   <a href="https://ktzaw.tech"><img src="https://img.shields.io/badge/Portfolio-ktzaw.tech-2575fc?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="mailto:kaungthantzaw13@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-6a11cb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:kaungthantzaw13@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-6a11cb?style=for-the-badge" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=ktzaw&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile views" />
 </p>
 
