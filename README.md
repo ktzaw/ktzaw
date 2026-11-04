@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kaung+Thant+Zaw+%F0%9F%91%8B;Building+apps+for+your+pocket+%F0%9F%93%B1;Kotlin+%E2%9D%A4%EF%B8%8F+%7C+Dart+%F0%9F%8E%AF+%7C+JavaScript+%E2%9A%A1;a.k.a.+Kung+Fu+Panda+%F0%9F%90%BC%F0%9F%A5%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kaung+Thant+Zaw+%F0%9F%91%8B;Building+apps+for+your+pocket+%F0%9F%93%B1;Kotlin+%E2%9D%A4%EF%B8%8F+%7C+Dart+%F0%9F%8E%AF+%7C+JavaScript+%E2%9A%A1;a.k.a.+Kung+Fu+Panda+%F0%9F%90%BC" alt="Typing SVG" />
   </a>
 </p>
 
