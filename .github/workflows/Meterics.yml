@@ -42,8 +42,8 @@ jobs:
           plugin_isocalendar_duration: full-year
           config_timezone: Asia/Yangon
 
-      # Achievements (the "trophies" replacement)
-      - uses: lowlighter/metrics@latest
+      # Achievements (uses @master for the newest code, since @latest shows "Unexpected error")
+      - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.achievements.svg
